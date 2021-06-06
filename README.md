@@ -1,1 +1,1 @@
-This contains code solutions for deep learning course by Nando de Freitas Oxford University.
+This contains code solutions for some random machine learning algorithms.
